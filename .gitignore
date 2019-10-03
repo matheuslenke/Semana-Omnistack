@@ -1,0 +1,2 @@
+#Ignorando extensões do Node modules
+/node_modules/
